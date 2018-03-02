@@ -1,0 +1,95 @@
+html, body {
+	margin-left: 15px;
+	margin-right: 15px;
+	padding: 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+table {
+	border-collapse: collapse;
+	border-bottom: 1px solid gray;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	width: 72.5%; 
+}
+
+th {
+	border-bottom: 1px solid gray;
+	background: none repeat scroll 0 0 #0775d3;
+	padding: 10px;
+	color: #FFFFFF;
+}
+
+tr {
+	border-top: 1px solid gray;
+	text-align: center; 
+}
+
+tr:nth-child(even) {background: #FFFFFF;}
+tr:nth-child(odd) {background: #BBBBBB;}
+
+#error_msg {
+	color: red;
+}
+
+
+.sidenav {
+    width: 150px;
+    background-color: #333;
+    overflow-x: hidden;
+    padding-top: 0px;
+}
+
+.sidenav a, .dropdown-btn {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 16px;
+    color: #818181;
+    display: block;
+    border: none;
+    background: none;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    outline: none;
+}
+
+.sidenav a:hover, .dropdown-btn:hover {
+    color: #f1f1f1;
+}
+
+.active {
+    background-color: green;
+    color: white;
+}
+
+.dropdown-container {
+    display: none;
+    background-color: #262626;
+    padding-left: 8px;
+}
+
+.fa-caret-down {
+    float: right;
+    padding-right: 8px;
+}
+
+.add-button {
+	border: 1px solid #666;
+	border-radius: 5px;
+	padding: 4px;
+	fond-size: 12px;
+	font-weight: bold;
+	width: 120px;
+	padding: 5px 10px;
+	margin-bottom: 15px;
+	background: #cccccc;
+	outline: 0;
+}
+
+#place-list-style {
+	margin-left: 0px;
+    margin-right: 0;
+    margin-top: 80px;
+    margin-bottom: 0;
+}
+	

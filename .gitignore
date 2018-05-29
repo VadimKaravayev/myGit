@@ -1,0 +1,7 @@
+.git/
+.idea/
+*.class
+*.dll
+*.exe
+Play.java
+cake-reg-form.iml

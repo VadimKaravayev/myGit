@@ -22,6 +22,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Play.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Play.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ErrorMessage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/vk/vadim/karavayev/constants/ErrorMessage.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -49,10 +58,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RegistrationServlet.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RegistrationServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/vk/vadim/karavayev/web/servlets/RegistrationServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="-259">
               <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
             </state>
           </provider>
@@ -140,7 +149,6 @@
         <option value="$PROJECT_DIR$/src/main/java/vk/vadim/karavayev/constants/ContextParam.java" />
         <option value="$PROJECT_DIR$/src/main/java/vk/vadim/karavayev/constants/Attributes.java" />
         <option value="$PROJECT_DIR$/src/main/java/vk/vadim/karavayev/captcha/CaptchaCleaner.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Play.java" />
         <option value="$PROJECT_DIR$/src/main/java/vk/vadim/karavayev/captcha/captcha_store_method/impl/CookieCaptchaStoreMethod.java" />
         <option value="$PROJECT_DIR$/src/main/java/vk/vadim/karavayev/captcha/captcha_store_method/impl/HiddenFieldCaptchaStoreMethod.java" />
         <option value="$PROJECT_DIR$/src/main/java/vk/vadim/karavayev/captcha/captcha_store_method/impl/SessionCaptchaStoreMethod.java" />
@@ -160,6 +168,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/vk/vadim/karavayev/constants/ErrorMessage.java" />
         <option value="$PROJECT_DIR$/src/main/java/vk/vadim/karavayev/web/servlets/RegistrationServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Play.java" />
       </list>
     </option>
   </component>
@@ -197,6 +206,24 @@
             <path>
               <item name="cakeregform" type="b2602c69:ProjectViewProjectNode" />
               <item name="cake-reg-form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cakeregform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cake-reg-form" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cakeregform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cake-reg-form" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cakeregform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cake-reg-form" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -331,6 +358,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -521,16 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="72" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Play.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -741,8 +759,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/vk/vadim/karavayev/web/servlets/RegistrationServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="-259">
           <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Play.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

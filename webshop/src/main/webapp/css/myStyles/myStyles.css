@@ -1,0 +1,13 @@
+.error {
+    color: red;
+    font-size: 80%;
+    font-style: italic;
+}
+
+#captcha-input {
+    width: 28%;
+    border: 1px solid;
+    padding: 2px;
+    margin-bottom: 10px;
+}
+
